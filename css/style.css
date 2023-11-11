@@ -1,0 +1,151 @@
+body
+{
+    background-color: rgb(153, 149, 149);
+    /* background-image: url(../images/istockphoto-1258097648-612x612.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%; */
+}
+ 
+.carCard
+{
+position: relative;
+}
+.carCard img
+{
+    height: 100%;
+    cursor: pointer;
+}
+.cardText
+{
+    position: absolute;
+    width: 80%;
+    bottom: 5%;
+    left: 10%;
+    background-color: rgb(35, 36, 38);
+    color: beige;
+    
+}
+.cardText p
+{
+    font-size: smaller;
+
+}
+.lightBox
+{
+    background-color:rgb(0, 0, 0,0.6);
+    position: absolute;
+    position: fixed;
+    top: 0%;
+    bottom: 0%;
+    left: 0%;
+    right: 0%;
+     
+    display:none;
+    justify-content: center;
+    align-items: center;
+    
+}
+.lightBoxDiv
+{
+    width: 70%;
+    height: 80%;
+    background-color: rgb(223, 223, 218);
+    display: flex;
+    position: relative;
+    
+
+}
+.iconsDiv
+{
+    position: absolute;
+    display: flex;
+    top: 50%;
+    justify-content: space-between; 
+     
+    width: 100%;
+    color: #a9a5a5;
+    
+        
+}
+.exitIcon
+{
+    position: absolute;
+    top: 2%;
+    right: 1%;
+    color: #a9a5a5;
+   
+}
+.lightBoxDiv img
+{
+    height: 100%;
+    width: 45%;
+    
+}
+.h6pDiv
+{
+ width: 60%;  
+ justify-content: center; 
+ margin-right: 20%;
+ 
+}
+.imgIcons
+{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    width: 5%;
+    
+    bottom: 2%;
+    left: 20%;
+    color: black;
+}
+.iconCursor
+{
+    cursor: pointer;
+}
+.helloBody
+{
+    background-image: url(../images/photo-11111111111-fc3ee04dbcf0.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(196, 202, 206);
+}
+.hhDiv
+{
+    color: #faf7f7;
+    background-color: rgb(57, 57, 57);
+    width: 50%;
+    margin: auto;
+}
+body{
+    background-image: url(../images/760c5d5617d0f71b777784ca9d7efdb6.jpg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
